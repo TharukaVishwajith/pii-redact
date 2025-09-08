@@ -163,3 +163,4 @@ secrets.json
 test_data/
 sample_data/
 output/
+redacted_output/
