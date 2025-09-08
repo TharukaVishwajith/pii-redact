@@ -447,8 +447,8 @@ if __name__ == "__main__":
         pass
 
     sample = (
-        "The customer, Janice Goodstadt, called to book Toronto to Los Angeles Oct 5–14. "
+        "The customer, Sam Altmen, called to book Toronto to Los Angeles Oct 5–14. "
         "PNR ABC123. Aeroplan number 123456789. "
-        "Her husband Eli will travel too. The agent Amanda confirmed."
+        "Her husband Eli will travel too. The agent Kasun Kalhara."
     )
     print(redact_text(sample, salt="demo-salt"))
